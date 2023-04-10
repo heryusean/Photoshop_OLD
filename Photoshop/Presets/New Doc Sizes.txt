@@ -1,0 +1,54 @@
+
+; Version of the file, 1 for Photoshop 7.0
+
+;          ***NOTE FOR OS X USERS***
+; If you are editing this file using TextEdit on OS X
+; you need to choose "Format > Make Plain Text" and then
+; resave the file as New Doc Sizes.txt
+
+1
+
+; Blank lines and lines starting with ; are ignored
+
+; Document preset sizes are lines formatted as:
+
+; "Preset Name"    Width    Height    Units
+
+; or
+
+; "Preset Name"    Width    Height    Units		Resolution
+
+; 	"Preset Name" requires quotes around it
+
+; 	Width is the decimal width of the preset, in units
+
+; 	Height is the decimal height of the preset, in units
+
+;	Units is the units for the preset and is one of the following:
+;		pixels
+;		inches
+;		cm
+;		mm
+;		points
+;		picas
+
+;	If a Resolution value is not present, the resolution in the
+;	dialog will not be changed.
+
+;	Otherwise resolution is one of the following:
+;		print
+;		screen
+;		an actual numeric value in dpi or dpcm, e.g. 72 dpi, or 300 dpcm
+
+; Example: for a size named "My Paper Size" that is 8.5 in. wide x
+; 4 in. tall at 72 dpi:
+
+; "My Paper Size"	8.5		4		inches	72 dpi
+
+; Example: for a size named "My Web Size" that is 800 pixels wide x
+; 600 pixels tall at the resolution specified in preferences for
+; "screen" documents:
+
+; "My Web Size"		800		600		pixels	screen
+
+

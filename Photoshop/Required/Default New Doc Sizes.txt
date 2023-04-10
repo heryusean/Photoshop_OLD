@@ -1,0 +1,77 @@
+; Version of the file
+
+1
+
+; "Custom" will always get added first
+; Followed by a separator
+
+; Default document size --- Photoshop will calculate sizes
+; based on the current system locale. This label indicates
+; where in the menu the default size will go
+
+"Default Photoshop Size"
+
+"separator"
+
+; Standard paper sizes
+
+"Letter"					8.5	   11.0		inches		print
+"Legal"		   			   11.0	   14.0		inches		print
+"Tabloid"	   			   11.0	   17.0		inches		print
+
+"separator"
+
+; Standard picture sizes
+
+"2 x 3"						2.0		3.0		inches		print
+"4 x 6"						4.0		6.0		inches		print
+"5 x 7"						5.0		7.0		inches		print
+"8 x 10"					8.0	   10.0		inches		print
+
+"separator"
+
+; Standard screen sizes
+
+"640 x 480"					640		480		pixels		screen
+"800 x 600"					800		600		pixels		screen
+"1024 x 768"	   		   1024		768		pixels		screen
+"468 x 60 web banner"		468		 60		pixels		screen
+
+"separator"
+
+; Standard video sizes
+
+"720 x 540 Std. NTSC 601"		720		540		pixels		screen
+"720 x 534 Std. NTSC DV/DVD"	720		534		pixels		screen
+"864 x 486 Wide NTSC 601"		864		486		pixels		screen
+"864 x 480 Wide NTSC DV/DVD"	864		480		pixels		screen
+"768 x 576 Std. PAL"			768		576		pixels		screen
+"1024 x 576 Wide PAL"		   1024		576		pixels		screen
+"1280 x 720 HDTV 720P"	   	   1280		720		pixels		screen
+"1920 x 1080 HDTV 1080i"   	   1920    1080		pixels		screen
+
+"separator"
+
+; Standard paper sizes
+
+; "A" paper sizes are the same for ISO and JIS
+
+"A4"						210		297		mm			print
+"A3"						297		420		mm			print
+
+"separator"
+
+; "B" paper sizes have ISO and JIS versions.
+; For app versions where we want the JIS versions
+; remove the comment character to make them appear
+; in the UI
+
+"B5"						176		250		mm			print
+; "JISB5"					182		257		mm			print
+
+"B4"						250		353		mm			print
+; "JISB4"					257		364		mm			print
+
+"B3"						353		500		mm			print
+; "JISB3"					364		515		mm			print
+

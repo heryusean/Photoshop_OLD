@@ -1,0 +1,38 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\12.0]
+"uiLanguageKey CS5"="en_GB"
+"oldPaletteFontTypeKey CS5"=dword:00000000
+"SettingsFilePath"="C:\\Users\\Allah\\AppData\\Roaming\\Adobe\\Adobe Photoshop CS5\\Adobe Photoshop CS5 Settings\\"
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[38,29,1152,886]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\12.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\Allah\\Desktop\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\7.0]
+"AppWindowPosition"="[2,2,1018,732]"
+"AppWindowMaximized"=dword:00000000
+"SettingsFilePath"="C:\\Users\\Allah\\AppData\\Roaming\\Adobe\\Photoshop\\7.0\\Adobe Photoshop 7.0 Settings"
+"PlugInDirectory"="C:\\Downloads\\PortablePhotoshop7\\PortablePhotoshop7\\Photoshop\\Plug-Ins\\"
+"ScratchWarningSeen"=dword:00000001
+"MemoryUsage"=dword:00000032
+"ShowStatusWindow"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\7.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\Allah\\Documents"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\8.0]
+"SettingsFilePath"="C:\\Documents and Settings\\Administrador.CASA\\Dados de aplicativos\\Adobe\\Photoshop\\8.0\\Adobe Photoshop CS Settings\\"
+"MemoryUsage"=dword:00000032
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[2,2,1018,728]"
+"AppWindowMaximized"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\8.0\Registration]
+"PVERS"="8.0"
+"PLANG"="ENU"
+"OS"="NT"
